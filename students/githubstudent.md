@@ -7,3 +7,5 @@ San Francisco, CA
 ## Favorite Winter Activity
 - Skiing
 - Cabin Life:tm:
+- drinking
+- Ice fishing
